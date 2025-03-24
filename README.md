@@ -47,10 +47,10 @@ Access the Application:
 Once both servers are running, you can access the application in your browser at http://localhost:3001 for the endpoints and http://localhost:5173 for the webpage.
 Credits
 This project was developed by:
-
 Gino Paolo Tombesi
 Nahuel Villegas
 Valentino Rocca
 Marcos Belli
 Juan Cortez
+
 We worked together to bring this project to life, each contributing to different aspects of the development process, as part of the Software Development course in the Information Systems Engineering career at the UTN FRC.
